@@ -3,9 +3,11 @@
 
 Este proyecto incluye una API hecha en Spring Boot, tambien incluye el uso de ORM, con el proveedor Hibernate, la Base de Datos a usar es MySQL.
 
-
-![Logo](https://cdn.worldvectorlogo.com/logos/spring-3.svg)
-
+<div style="display: flex;">
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Logo" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Logo" width="400" />
+<img src="https://media.licdn.com/dms/image/v2/C4E12AQGGhbcIA5Mi9g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1638274303566?e=2147483647&v=beta&t=MFSfnJ0Vv9a_Q3jX6sKieq2fubakC4-uimUEYLG5lRE" alt="Logo" width="400" />
+</div>
 
 ## API Referencia
 
