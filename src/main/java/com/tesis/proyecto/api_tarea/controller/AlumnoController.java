@@ -46,7 +46,7 @@ public class AlumnoController {
         this.alumnoService = alumnoService;
     }
 
-    @PutMapping("/{id}/perfil")
+    @PutMapping("/{id}")
     public ResponseEntity<Alumno> updateAlumnoProfile(@PathVariable Long id,
                                                       @RequestParam("image") MultipartFile imageFile) {
         // Verificar si el alumno existe
